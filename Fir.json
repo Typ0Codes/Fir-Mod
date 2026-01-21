@@ -1,0 +1,14 @@
+{
+    "id": "Fir",
+    "name": "Fir",
+    "author": ["SLDTyp0"],
+    "description": "Adds a joker themed around fir to the game",
+    "prefix": "Fir",
+    "main_file": "Fir.lua",
+    "badge_colour": "3086cf",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1225a)",
+        "libcredit"
+    ],
+    "version": "1.0.0"
+}
