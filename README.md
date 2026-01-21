@@ -1,4 +1,4 @@
-#fir mod
+# fir mod
 
 adds a joker based on fir to balatro
 
